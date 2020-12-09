@@ -16,6 +16,8 @@
 
 .nav__logo {
   position: fixed;
+  color: red;
+  font-family: Garamond;
   left: 20px;
   width: 80px;
   object-fit: contain;

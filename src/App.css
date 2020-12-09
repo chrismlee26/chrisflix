@@ -5,3 +5,8 @@
 .app {
   background-color: #111;
 }
+
+h2 {
+  color: #d3d3d3;
+  font-family: "Courier New", Courier, monospace;
+}

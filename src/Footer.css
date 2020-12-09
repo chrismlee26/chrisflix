@@ -1,0 +1,9 @@
+.FooterElements {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__text {
+  color: #d3d3d3;
+}
